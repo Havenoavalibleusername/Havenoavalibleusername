@@ -1,16 +1,19 @@
-## Hi there 👋
+# Личный профиль
 
-<!--
-**Havenoavalibleusername/Havenoavalibleusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Фото](https://link-catre-fotografie.com/fotografie.jpg)
 
-Here are some ideas to get you started:
+**Фамилия**: Ion Popescu  
+**Имя**: Ion  
+**Телефон**: +373 123 456 789  
+**Email**: ion.popescu@example.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Описание
+
+Я увлеченный разработчик программного обеспечения с опытом создания веб- и мобильных приложений. Мне нравится работать над open-source проектами и изучать новые технологии в области ИТ.
+
+## Интересы в ИТ
+
+- Разработка программного обеспечения (frontend и backend)
+- Машинное обучение и искусственный интеллект
+- Вклад в проекты с открытым исходным кодом
+- Разработка видеоигр
